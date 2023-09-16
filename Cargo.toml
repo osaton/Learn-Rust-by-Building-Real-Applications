@@ -1,6 +1,10 @@
 [workspace]
+resolver = "2"
+
 members = [
     "server",
     "mars_calc",
     "memory_management",
+    "my_mars_calc",
+    "my_server",
 ]
